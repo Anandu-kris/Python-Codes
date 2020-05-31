@@ -1,3 +1,6 @@
+#Python code for to know current weather  
+#using Openweathermap API
+
 import requests
 import json
 
